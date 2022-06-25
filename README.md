@@ -7,7 +7,7 @@ Author udh pada gila semua XD hehe
 
 #### Installation and Using santet-online
 ```
-git clone https://github.com/Gameye98/santet-online
+git clone https://github.com/trhacknon/santet-online
 ```
 ```
 cd santet-online
